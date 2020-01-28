@@ -2,7 +2,11 @@
 <search>
   <entry>
     <title>blog 简介</title>
-    <url>/2020/01/27/zh-CN/blog-%E7%AE%80%E4%BB%8B/</url>
-    <content><![CDATA[]]></content>
+    <url>/2020/01/27/blog-%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<p>这是一个<a href="jijialinjuruo.github.io">弱鸡</a>的博客。<br><a id="more"></a><br>这个人会不定期发布文章。<br>这个人会在博客里加很多功能。<br><del>这好像就是一首诗啊</del><br>$\color{red}{\text{支持LaTeX！}}$<br>$\LaTeX$</p>
+]]></content>
+      <tags>
+        <tag>Miscellaneous</tag>
+      </tags>
   </entry>
 </search>
