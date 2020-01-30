@@ -1,6 +1,0 @@
----
-title: friendlink
-date: 2020-01-23
-layout: fl
-permalink: friendlink.html
----
