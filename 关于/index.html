@@ -28,7 +28,7 @@
     exturl: false,
     sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
     copycode: {"enable":true,"show_result":false,"style":null},
-    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
     bookmark: {"enable":false,"color":"#222","save":"auto"},
     fancybox: false,
     mediumzoom: false,
@@ -46,6 +46,15 @@
     path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
   };
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i["DaoVoiceObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.charset="utf-8";m.parentNode.insertBefore(a,m)})(window,document,"script",('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/0f81ff2f.js","daovoice")
+  daovoice('init', {
+      app_id: "da1d2e31"
+    });
+  daovoice('update');
+  </script>
+
 </script>
 
   <meta name="description" content="这是一个弱鸡的博客。这个人会不定期发布文章。这个人会在博客里加很多功能。这好像就是一首诗啊$\color{red}{\text{支持LaTeX！}}$ \LaTeX ++!jjl^{\texttt{就是蒟蒻}^{\texttt{不能反驳}}_{\texttt{再问zs}}}_{\texttt{就是萌新}^{\texttt{我太弱了}}_{\texttt{啥都不会}}}">
@@ -285,6 +294,8 @@
 
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="jjl"
+      src="https://cdn.luogu.com.cn/upload/image_hosting/7pzsjsed.png">
   <p class="site-author-name" itemprop="name">jjl</p>
   <div class="site-description" itemprop="description"></div>
 </div>
