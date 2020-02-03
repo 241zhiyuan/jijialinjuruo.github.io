@@ -448,6 +448,19 @@
 
       </div>
 
+      
+<script type="text/javascript" charset="utf-8" src="/js/tagcloud.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/tagcanvas.js"></script>
+<div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div id="myCanvasContainer" class="widget tagcloud">
+        <canvas width="250" height="250" id="resCanvas" style="width=100%">
+            <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Materials/" rel="tag">Materials</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/System/" rel="tag">System</a><span class="tag-list-count">1</span></li></ul>
+        </canvas>
+    </div>
+</div>
+
+
     </div>
   </aside>
   <div id="sidebar-dimmer"></div>
@@ -547,90 +560,7 @@
 </script>
 
 
-body { 
-  background:url("https://s1.ax1x.com/2018/12/20/FrwSoR.jpg");//大红背景的元旦图片
-  background-repeat: no-repeat;//不重复
-  background-position: center;//居中
-  background-size: cover;//填充
-  background-attachment:fixed;//不随页面滚动
-  // background-position:0% 0%;
- }
- //改掉题头背景
-.site-meta {
-  background:url("https://s1.ax1x.com/2018/12/20/FrBwsU.jpg");//小猪奔跑时钟
-  background-repeat: no-repeat;//不重复
-  background-size: cover;//填充
-  // background: #8cc302;
-  // background: linear-gradient(0deg, #8cc302 0%, #fdf52d 12%, #c12424 100%);
-}
-//主标题颜色
-.brand{
-  color: #fbda41
-}
-//副标题颜色
-.site-subtitle{
-  color: #fbda41
-}
-.header-inner{  
-  background: #bc0100;
-  background: linear-gradient(0deg, #bc0100 20%, #9b1d22 80%);
-}
-.menu-item a{
-  color: #fbda41
-}
-.menu-item-active a{
-  color: #555555
-}
-
-.footer,.footer a,.footer .with-love{
-  color: #31ff00
-}
-
-//文章标题右侧增加图片
-article .post-header{
-  background:url(https://s1.ax1x.com/2018/12/20/FrDJmD.png);//猪 2019 透明
-  background-repeat: no-repeat;//不重复
-  background-position: right ; //居右
-  background-size: contain;//合适大小
-  // color:#ff0000;
-}
-//文章版权处右侧增加图片
-article .post-copyright{
-  background:url(https://s1.ax1x.com/2018/12/20/FrD60g.png);//瑾贺新年 透明
-  background-repeat: no-repeat;//不重复
-  background-position: right bottom ; //居右下
-  background-size: contain;//auto按图片比例缩放
-}
-文章内页左边栏样式
-//左边栏概览
-.sidebar-inner {
-  //background:url(https://s1.ax1x.com/2018/12/20/FrBGIs.jpg);//元旦 大红背景
-  background:url(https://s1.ax1x.com/2018/12/20/FrD1l6.jpg);//元旦 大红背景 模糊
-
-  background-repeat: no-repeat;//不重复
-  background-position: center ; //居右下
-  background-size: cover;//auto按图片比例缩放
-
-  color: #fbda41;
-}
-.sidebar-inner .site-overview-wrap .site-overview,.sidebar-inner .site-overview-wrap .site-overview .site-author-name,.sidebar a,.sidebar span.exturl,.site-state-item-name,.site-description{
-  color: #fbda41;
-}
-//文章内页左边栏
-.sidebar-nav .sidebar-nav-active{
-  color: #fcc307;
-  border-bottom-color: #fcc307;
-}
-.sidebar-nav li{
-  color: #fbda41;
-  border-bottom-color: #fbda41;
-}
-.links-of-blogroll-list{
-  text-shadow: red 0 1px 0;//给links部分添加文字阴影
-}
-.post-toc ol a{
-  color: #fbda41;
-}
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   !function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e<d.length;e++)d[e].alpha<=0?(t.body.removeChild(d[e].el),d.splice(e,1)):(d[e].y--,d[e].scale+=.004,d[e].alpha-=.013,d[e].el.style.cssText="left:"+d[e].x+"px;top:"+d[e].y+"px;opacity:"+d[e].alpha+";transform:scale("+d[e].scale+","+d[e].scale+") rotate(45deg);background:"+d[e].color+";z-index:99999");requestAnimationFrame(r)}function o(){var t="function"==typeof e.onclick&&e.onclick;e.onclick=function(e){t&&t(),i(e)}}function i(e){var a=t.createElement("div");a.className="heart",d.push({el:a,x:e.clientX-5,y:e.clientY-5,scale:1,alpha:1,color:s()}),t.body.appendChild(a)}function c(e){var a=t.createElement("style");a.type="text/css";try{a.appendChild(t.createTextNode(e))}catch(t){a.styleSheet.cssText=e}t.getElementsByTagName("head")[0].appendChild(a)}function s(){return"rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")"}var d=[];e.requestAnimationFrame=function(){return e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.oRequestAnimationFrame||e.msRequestAnimationFrame||function(e){setTimeout(e,1e3/60)}}(),n()}(window,document);
 
   <script>
