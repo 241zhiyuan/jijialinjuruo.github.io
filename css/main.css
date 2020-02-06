@@ -988,7 +988,7 @@ pre .javascript .function {
   }
 }
 .brand {
-  color: #fff !important;
+  color: #ff0 !important;
   background: #222;
   border-bottom: none;
   color: #222;
@@ -1009,7 +1009,7 @@ pre .javascript .function {
   vertical-align: top;
 }
 .site-subtitle {
-  color: #999;
+  color: #ff0;
   font-size: 0.8125em;
   margin-top: 10px;
 }
@@ -1184,7 +1184,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffb050;
+  background: #5b143b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
