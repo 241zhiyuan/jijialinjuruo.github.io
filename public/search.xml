@@ -3,7 +3,7 @@
   <entry>
     <title>hexo食用指北一——安装与基本配置</title>
     <url>/2020/02/06/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%B8%80%E2%80%94%E2%80%94%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</url>
-    <content><![CDATA[<p>有一天，jjl在网上搜东西。<br>忽然，看到了hexo。<br>于是他在网上查了hexo是什么东西。<br>原来是一个博客框架啊！<br>先放上<a href="hexo.io">官网链接</a></p>
+    <content><![CDATA[<p>有一天，jjl在网上搜东西。<br>忽然，看到了hexo。<br>于是他在网上查了hexo是什么东西。<br>原来是一个博客框架啊！<br><a id="more"></a><br>先放上<a href="hexo.io">官网链接</a></p>
 <blockquote>
 <p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。   —摘自官方</p>
 </blockquote>
@@ -15,8 +15,8 @@
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
         <tag>Software</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -27,9 +27,9 @@
         <category>Computer Softwares Usage</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>VMware</tag>
         <tag>Virtual Machines</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
