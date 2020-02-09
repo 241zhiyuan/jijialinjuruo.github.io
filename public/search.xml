@@ -8,7 +8,9 @@
 <p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。   —摘自官方</p>
 </blockquote>
 <p>然而凡事总会有缺点：上传麻烦，域名太长(可以缩短如.xyz,但是只有土豪才会改)……</p>
-<h2 id="不过，hexo对于我这种蒟蒻还是一个不错的选择。"><a href="#不过，hexo对于我这种蒟蒻还是一个不错的选择。" class="headerlink" title="不过，hexo对于我这种蒟蒻还是一个不错的选择。"></a>不过，hexo对于我这种蒟蒻还是一个不错的选择。</h2><h1 id="0-准备工作"><a href="#0-准备工作" class="headerlink" title="0.准备工作"></a>0.准备工作</h1><p>首先，确保你安装了以下几个软件或拥有以下网站的账号:<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git</a><br><a href="https://npm.taobao.org/mirrors/node/v12.15.0/node-v12.15.0-x64.msi" target="_blank" rel="noopener">Node.js</a><br><a href="https://github.com/" target="_blank" rel="noopener">Github</a><br>一个编辑器(建议使用Typora,Sublime)</p>
+<p>不过，hexo对于我这种蒟蒻不失于一个不错的选择。</p>
+<hr>
+<h1 id="0-准备工作"><a href="#0-准备工作" class="headerlink" title="0.准备工作"></a>0.准备工作</h1><p>首先，确保你安装了以下几个软件或拥有以下网站的账号:<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git</a><br><a href="https://npm.taobao.org/mirrors/node/v12.15.0/node-v12.15.0-x64.msi" target="_blank" rel="noopener">Node.js</a><br><a href="https://github.com/" target="_blank" rel="noopener">Github</a><br>一个编辑器(建议使用Typora,Sublime)</p>
 <h1 id="1-开始搭建博客"><a href="#1-开始搭建博客" class="headerlink" title="1.开始搭建博客"></a>1.开始搭建博客</h1><h1 id="1-1-配置SSH"><a href="#1-1-配置SSH" class="headerlink" title="1.1 配置SSH"></a>1.1 配置SSH</h1><p>首先来到GitHub官网，点击右上角并打开Settings。<br><img src="/images/hexo1.jpg" alt="hexo1"></p>
 ]]></content>
       <categories>
