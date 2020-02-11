@@ -6,17 +6,74 @@
     <link rel="alternate" href="/atom.xml" title="jjl的破屋子" type="application/atom+xml">
 </head>
     <body background="https://cdn.luogu.com.cn/upload/image_hosting/qjz1uw8m.png">
-    	<style type="text/css">
-    		err{
-    			font-size: 48px
-                color:#FF0000;
-    		}
-    	</style>
-        <p class="err"><center><b><h1>404!!!</h1></b></center></p>
+        <font color="red"><p><center><b><h1>404!!!</h1></b></center></p></font>
         <center>QAQ</center>
         <center>这个页面可能被jjl删了或者jjl这个蒟蒻根本没设这个页面</center>
         <center>本蒟蒻对带给您的不便表示诚挚的歉意</center>
         <hr>
-        <a href="https://jijialinjuruo.github.io"><button>回到主页</button></a>
+        <a href="https://jijialinjuruo.github.io"><button onclick="alert('正在跳转，请稍后......')">回到主页</button></a>
+        <br>
+        页面找不到了，但是jjl可以搞点东西来玩♂玩
+        <br>
+        <s>jjl不太会JS所以效果比较丑，请多多谅解</s>
+        <style type="text/css">
+		#my_guess_num {
+			height: 18px;
+			vertical-align: middle;
+			text-align: center;
+			line-height: 18px; /*line-height must be equal to height*/
+		}
+		</style>
+		<script type="text/javascript">
+			var min=document.getElementById("min");
+			var max=document.getElementById("max");
+			var count=0;
+			function getnum(min,max)
+			{
+			    var num=Math.random()%max+min;
+			}
+			function guess(num)
+			{
+				var answer=document.getElementById("my_guess_num");
+				if(answer=="")
+				{
+					alert("QAQ输入框不能为空啊");
+					return;
+				}
+			    if(num==null)
+			    {
+			        alert("QAQ随机数竟然为"+num+"!");
+			        return;
+			    }
+			    if(answer<num)
+			    {
+			        alert("QAQ"+answer+"比随机数小了啊");
+			        return;
+			    }
+			    else if(answer==num)
+			    {
+			        alert("AwA随机数是"+num+"!你用"+count+"猜对啦!");
+			        return;
+			    }
+			    else
+			    {
+			        alert("QAQ"+answer+"比随机数大了啊");
+			        return;
+			    }
+			    count++;
+			}
+		</script>
+        <br>
+		猜数小游戏
+        <br>
+		<input id="min" type="text" name="min" placeholder="请输入最小值">
+		<br>
+		<input id="max" type="text" name="max" placeholder="请输入最大值">
+		<br>
+		<button id="getnum" onclick="getnum(min,max)">生成随机数！</button>
+		<br>
+        <br>
+        <input type="text" name="guess" placeholder="请输入猜的数">
+		<button id="guess" name="guess" onclick="guess(getnum)">猜！</button>
     </body>
 </html>
