@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jijialinjuruo.github.io/"/>
-  <updated>2020-02-11T11:50:20.597Z</updated>
+  <updated>2020-02-15T09:22:28.314Z</updated>
   <id>https://jijialinjuruo.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>实名举报百度网盘！</title>
-    <link href="https://jijialinjuruo.github.io/2020/02/11/%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%EF%BC%81/"/>
-    <id>https://jijialinjuruo.github.io/2020/02/11/%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%EF%BC%81/</id>
-    <published>2020-02-11T11:50:20.000Z</published>
-    <updated>2020-02-11T11:50:20.597Z</updated>
+    <title>hexo食用指北二--你的博客需要LaTeX</title>
+    <link href="https://jijialinjuruo.github.io/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/"/>
+    <id>https://jijialinjuruo.github.io/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/</id>
+    <published>2020-02-15T09:22:28.000Z</published>
+    <updated>2020-02-15T09:22:28.314Z</updated>
     
     <summary type="html">
     
@@ -32,11 +32,32 @@
   </entry>
   
   <entry>
+    <title>实名举报百度网盘！</title>
+    <link href="https://jijialinjuruo.github.io/2020/02/11/%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%EF%BC%81/"/>
+    <id>https://jijialinjuruo.github.io/2020/02/11/%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%EF%BC%81/</id>
+    <published>2020-02-11T11:50:20.000Z</published>
+    <updated>2020-02-15T12:49:22.143Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天，jjl要zuo一次死。&lt;br&gt;那就是————&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Feedback" scheme="https://jijialinjuruo.github.io/categories/Feedback/"/>
+    
+    
+      <category term="Report" scheme="https://jijialinjuruo.github.io/tags/Report/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo食用指北一——安装与基本配置</title>
     <link href="https://jijialinjuruo.github.io/2020/02/06/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%B8%80%E2%80%94%E2%80%94%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/"/>
     <id>https://jijialinjuruo.github.io/2020/02/06/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%B8%80%E2%80%94%E2%80%94%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</id>
     <published>2020-02-06T11:05:06.000Z</published>
-    <updated>2020-02-12T14:08:57.198Z</updated>
+    <updated>2020-02-15T12:48:42.068Z</updated>
     
     <summary type="html">
     
