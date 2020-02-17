@@ -14,7 +14,7 @@
 
 
 <link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/lib/pace/pace-theme-loading-bar.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-big-counter.min.css">
   <script src="/lib/pace/pace.min.js"></script>
 
 
@@ -267,7 +267,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-02-16 23:30:41" itemprop="dateModified" datetime="2020-02-16T23:30:41+08:00">2020-02-16</time>
+                <time title="修改时间：2020-02-17 19:02:39" itemprop="dateModified" datetime="2020-02-17T19:02:39+08:00">2020-02-17</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -309,7 +309,7 @@
           <p>此时，你的hexo博客是能够访问的。<br>然而，你似乎在想：这玩意真难搞，文章哪里可以上传呢，真麻烦。。。<br>嗯…<del>我不会告诉你我以前也不会上传文章的</del>还真有这么个问题。<br>所以，我们今天先说说怎么上传文章。</p>
 <h1 id="1-写-上传文章"><a href="#1-写-上传文章" class="headerlink" title="1.写/上传文章"></a>1.写/上传文章</h1><p>在此之前，先推荐一个很好的插件：<br>使用相对路径访问图片插件——hexo-asset-image<br>jjl推荐与typora一起使用，待会你就知道为什么了。<br>打开/你的博客文件夹/名字/source/，有没有发现里面有一个文件夹叫_posts？打开它，你又会发现里面有个文件叫hello-world.md是吗？然后你又会发现博客上也有一篇东西叫hello-world。<br>由此可得：这是存储文章的文件夹。<br><img src="/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/blog\juruo\source\_posts\hexo食用指北二——你的博客需要LaTeX\hexo1.JPG" alt="hexo1"></p>
 <blockquote>
-<p>声明：只有_posts是博客自带的，其他的文件夹都是jjl自己做的，这个将在hexo食用指北三——为你的博客加入额外网页中详细介绍。</p>
+<p>声明：只有_posts是博客自带的，其他的文件夹都是jjl自己做的，这个将在hexo食用指北三——为你的博客加入额外功能中详细介绍。</p>
 </blockquote>
 <h2 id="1-1-相对路径访问图片"><a href="#1-1-相对路径访问图片" class="headerlink" title="1.1 相对路径访问图片"></a>1.1 相对路径访问图片</h2><p>运行代码<code>npm install hexo-asset-image --save</code><br>可能有人会问：相对路径有何用处？<br>那样子你就不需要上传到某些无良图床上，也不用付费了！岂不美哉？<br><del>汝听，人言否？</del><br>这样能方便的调用图片等资源。<br>但这还不够。<br>打开站点配置文件(已在第一篇介绍过——_config.yml)</p>
 <blockquote>
