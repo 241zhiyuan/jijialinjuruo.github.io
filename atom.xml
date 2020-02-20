@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jijialinjuruo.github.io/"/>
-  <updated>2020-02-18T09:17:48.177Z</updated>
+  <updated>2020-02-20T04:39:59.124Z</updated>
   <id>https://jijialinjuruo.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://jijialinjuruo.github.io/2020/02/20/test/"/>
+    <id>https://jijialinjuruo.github.io/2020/02/20/test/</id>
+    <published>2020-02-20T04:38:19.000Z</published>
+    <updated>2020-02-20T04:39:59.124Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div id=&quot;echarts4527&quot; style=&quot;width: 85%;height: 400px;margin: 0 auto&quot;&gt;&lt;/div&gt;
+&lt;script
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>markdown入门</title>
@@ -36,7 +60,7 @@
     <link href="https://jijialinjuruo.github.io/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/"/>
     <id>https://jijialinjuruo.github.io/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/</id>
     <published>2020-02-15T09:22:28.000Z</published>
-    <updated>2020-02-17T11:45:18.976Z</updated>
+    <updated>2020-02-20T04:38:35.370Z</updated>
     
     <summary type="html">
     
