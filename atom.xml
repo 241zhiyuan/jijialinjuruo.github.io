@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jijialinjuruo.github.io/"/>
-  <updated>2020-02-17T11:45:18.976Z</updated>
+  <updated>2020-02-18T09:17:48.177Z</updated>
   <id>https://jijialinjuruo.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown入门</title>
+    <link href="https://jijialinjuruo.github.io/2020/02/18/markdown%E5%85%A5%E9%97%A8/"/>
+    <id>https://jijialinjuruo.github.io/2020/02/18/markdown%E5%85%A5%E9%97%A8/</id>
+    <published>2020-02-18T09:17:48.000Z</published>
+    <updated>2020-02-18T09:17:48.177Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo食用指北二————你的博客需要LaTeX</title>

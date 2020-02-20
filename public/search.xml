@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>markdown入门</title>
+    <url>/2020/02/18/markdown%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>hexo食用指北二————你的博客需要LaTeX</title>
     <url>/2020/02/15/hexo%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8C%97%E4%BA%8C%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81LaTeX/</url>
     <content><![CDATA[<p>此时，你的hexo博客是能够访问的。<br>然而，你似乎在想：这玩意真难搞，文章哪里可以上传呢，真麻烦。。。<br><a id="more"></a><br>嗯…<del>我不会告诉你我以前也不会上传文章的</del>还真有这么个问题。<br>所以，我们今天先说说怎么上传文章。</p>
