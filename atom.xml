@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jijialinjuruo.github.io/"/>
-  <updated>2020-02-20T04:39:59.124Z</updated>
+  <updated>2020-02-18T09:17:48.177Z</updated>
   <id>https://jijialinjuruo.github.io/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://jijialinjuruo.github.io/2020/02/20/test/"/>
-    <id>https://jijialinjuruo.github.io/2020/02/20/test/</id>
-    <published>2020-02-20T04:38:19.000Z</published>
-    <updated>2020-02-20T04:39:59.124Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;div id=&quot;echarts4527&quot; style=&quot;width: 85%;height: 400px;margin: 0 auto&quot;&gt;&lt;/div&gt;
-&lt;script
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>markdown入门</title>
@@ -72,9 +48,9 @@
       <category term="Hexo install,use and deploy" scheme="https://jijialinjuruo.github.io/categories/Hexo-install-use-and-deploy/"/>
     
     
-      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
-    
       <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
+    
+      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
     
   </entry>
   
@@ -116,9 +92,9 @@
       <category term="Hexo install,use and deploy" scheme="https://jijialinjuruo.github.io/categories/Hexo-install-use-and-deploy/"/>
     
     
-      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
-    
       <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
+    
+      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
     
   </entry>
   
@@ -139,11 +115,11 @@
       <category term="Computer Softwares Usage" scheme="https://jijialinjuruo.github.io/categories/Computer-Softwares-Usage/"/>
     
     
+      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
+    
       <category term="VMware" scheme="https://jijialinjuruo.github.io/tags/VMware/"/>
     
       <category term="Virtual Machines" scheme="https://jijialinjuruo.github.io/tags/Virtual-Machines/"/>
-    
-      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
     
   </entry>
   
