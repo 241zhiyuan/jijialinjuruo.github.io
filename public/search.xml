@@ -3,7 +3,22 @@
   <entry>
     <title>markdown入门</title>
     <url>/2020/02/18/markdown%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">请输入密码以阅读这篇私密文章。</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="cfd6a94ab02678500fe85a00767e8038ac91c26978cc7caaf46966d62bd41cd8">7d5d7258c61a8441bad8148b2b259bf5</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Resource</tag>
+        <tag>Coding</tag>
+      </tags>
   </entry>
   <entry>
     <title>hexo食用指北二————你的博客需要LaTeX</title>
@@ -39,8 +54,8 @@ P(B_{i}|A)=\frac{P(B_{i})P(A|B_{i})}{\sum^{n}_{j=1}P(B_{j})P(A|B_{j})}</script><
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>Hexo</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -92,8 +107,8 @@ $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>Hexo</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -112,9 +127,9 @@ $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名
         <category>Computer Softwares Usage</category>
       </categories>
       <tags>
+        <tag>Software</tag>
         <tag>VMware</tag>
         <tag>Virtual Machines</tag>
-        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
