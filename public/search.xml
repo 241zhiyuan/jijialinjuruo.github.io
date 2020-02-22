@@ -54,8 +54,8 @@ P(B_{i}|A)=\frac{P(B_{i})P(A|B_{i})}{\sum^{n}_{j=1}P(B_{j})P(A|B_{j})}</script><
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
         <tag>Software</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -107,8 +107,8 @@ $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
         <tag>Software</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -127,9 +127,9 @@ $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名
         <category>Computer Softwares Usage</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>VMware</tag>
         <tag>Virtual Machines</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
