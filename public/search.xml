@@ -54,8 +54,8 @@ P(B_{i}|A)=\frac{P(B_{i})P(A|B_{i})}{\sum^{n}_{j=1}P(B_{j})P(A|B_{j})}</script><
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>Hexo</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -102,13 +102,13 @@ P(B_{i}|A)=\frac{P(B_{i})P(A|B_{i})}{\sum^{n}_{j=1}P(B_{j})P(A|B_{j})}</script><
 $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名字必须是"你的Github用户名".github.io！名字必须是"你的Github用户名".github.io！}}}</script><p>引号省略。<br><img src="https://i.loli.net/2020/02/12/A1H6rv5ZUStEhkM.jpg" alt="hexo10.JPG"><br>此时就跳转到了项目页面，点击旁边绿色的按钮(Clone or download)，复制它给的链接。<br><img src="https://i.loli.net/2020/02/12/MvYcQDWZS1EO5bL.jpg" alt="hexo11.JPG"><br>回到编辑器，拖到底部，把type后面的东西改成git,找到<code>deploy:</code>，加入<code>repo:</code>粘贴刚才复制的链接。</p>
 <script type="math/tex; mode=display">\color{red}{\Huge{\text{.yml文件冒号后面一定要加空格！.yml文件冒号后面一定要加空格！.yml文件冒号后面一定要加空格！}}}</script><p>这会博客就弄好了，安装一个插件方便上传文章(可以在node_module找到)<br>打开cmd(<strong>管理员身份运行！</strong>)，运行：<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><br>再回到编辑器，加一行<code>branch: master</code>，按下Ctrl+S(保存)。<br>现在，我们来上传并配置到博客。<br>输入<code>hexo g</code>和<code>hexo d</code>，其中g(generate)代表生成本地文件(预览)，d(deploy)代表上传。<br><img src="https://i.loli.net/2020/02/12/YrEtZxXpWSQMDsb.jpg" alt="hexo12.JPG"><br><img src="https://i.loli.net/2020/02/12/qResFxtMTBVEKng.jpg" alt="hexo13.JPG"><br>因为是初次建博客，所以hexo会让你配置一下Github账号和密码。<br><img src="https://i.loli.net/2020/02/12/YNgV7v84JxFRZqI.jpg" alt="hexo14.JPG"><br>然后…就大功告成啦！<br>如果有什么地方写错了的话，欢迎指正！</p>
 <h1 id="3-参考"><a href="#3-参考" class="headerlink" title="3.参考"></a>3.参考</h1><p><a href="https://www.luogu.com.cn/blog/Venus/build-hexo-github-blog" target="_blank" rel="noopener">从零搭建 Hexo + Github 博客</a><br>如有侵权，请与jjl联系，jjl将把此文章加密，永不解锁！(左下角找到反馈&amp;在线客服)</p>
-]]></content>
+<script type="math/tex; mode=display">\frac{E^{O}_{Article}}{\text{jjl专用结♂束♂符}}</script>]]></content>
       <categories>
         <category>Hexo install,use and deploy</category>
       </categories>
       <tags>
-        <tag>Software</tag>
         <tag>Hexo</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -127,9 +127,9 @@ $$\color{red}{\Huge{\text{名字必须是"你的Github用户名".github.io！名
         <category>Computer Softwares Usage</category>
       </categories>
       <tags>
+        <tag>Software</tag>
         <tag>VMware</tag>
         <tag>Virtual Machines</tag>
-        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
