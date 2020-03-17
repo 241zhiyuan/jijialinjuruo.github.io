@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jijialinjuruo.github.io/"/>
-  <updated>2020-03-08T02:20:52.886Z</updated>
+  <updated>2020-03-17T11:48:54.081Z</updated>
   <id>https://jijialinjuruo.github.io/</id>
   
   <author>
@@ -17,22 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>绘画2.0</title>
+    <link href="https://jijialinjuruo.github.io/2020/03/17/%E7%BB%98%E7%94%BB2-0/"/>
+    <id>https://jijialinjuruo.github.io/2020/03/17/%E7%BB%98%E7%94%BB2-0/</id>
+    <published>2020-03-17T11:47:04.000Z</published>
+    <updated>2020-03-17T11:48:54.081Z</updated>
+    
+    <summary type="html">
+    
+      此文章已被加密，需要输入密码访问。
+    
+    </summary>
+    
+    
+      <category term="Code" scheme="https://jijialinjuruo.github.io/categories/Code/"/>
+    
+      <category term="Programs" scheme="https://jijialinjuruo.github.io/categories/Code/Programs/"/>
+    
+    
+      <category term="C++" scheme="https://jijialinjuruo.github.io/tags/C/"/>
+    
+      <category term="code" scheme="https://jijialinjuruo.github.io/tags/code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>公告</title>
+    <link href="https://jijialinjuruo.github.io/2020/03/13/%E5%85%AC%E5%91%8A/"/>
+    <id>https://jijialinjuruo.github.io/2020/03/13/%E5%85%AC%E5%91%8A/</id>
+    <published>2020-03-13T00:29:41.000Z</published>
+    <updated>2020-03-13T00:29:41.259Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日本語五十音図</title>
     <link href="https://jijialinjuruo.github.io/2020/03/07/%E6%97%A5%E6%9C%AC%E8%AA%9E%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%B3/"/>
     <id>https://jijialinjuruo.github.io/2020/03/07/%E6%97%A5%E6%9C%AC%E8%AA%9E%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%B3/</id>
     <published>2020-03-07T11:43:30.000Z</published>
-    <updated>2020-03-08T02:20:52.886Z</updated>
+    <updated>2020-03-13T00:28:53.152Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;私は日本語がわからないので、五十音だけを読んでいますので、この記事は翻訳されています。翻訳が間違っていると思う人がいたら、私を修正してください。&lt;br&gt;日本語を「表す」ために、私はこの記事を日本語で書きました。&lt;br&gt;&lt;del&gt;御坂美琴が大好き&lt;/del&gt;&lt;/p&gt;
-&lt;h1
-        
-      
+      &lt;p&gt;私は日本語がわからないので、五十音だけを読んでいますので、この記事は翻訳されています。翻訳が間違っていると思う人がいたら、私を修正してください。&lt;/p&gt;
     
     </summary>
     
@@ -82,9 +115,9 @@
       <category term="Hexo install,use and deploy" scheme="https://jijialinjuruo.github.io/categories/Hexo-install-use-and-deploy/"/>
     
     
-      <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
-    
       <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
+    
+      <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -126,9 +159,9 @@
       <category term="Hexo install,use and deploy" scheme="https://jijialinjuruo.github.io/categories/Hexo-install-use-and-deploy/"/>
     
     
-      <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
-    
       <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
+    
+      <category term="Hexo" scheme="https://jijialinjuruo.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -149,11 +182,11 @@
       <category term="Computer Softwares Usage" scheme="https://jijialinjuruo.github.io/categories/Computer-Softwares-Usage/"/>
     
     
-      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
-    
       <category term="VMware" scheme="https://jijialinjuruo.github.io/tags/VMware/"/>
     
       <category term="Virtual Machines" scheme="https://jijialinjuruo.github.io/tags/Virtual-Machines/"/>
+    
+      <category term="Software" scheme="https://jijialinjuruo.github.io/tags/Software/"/>
     
   </entry>
   
